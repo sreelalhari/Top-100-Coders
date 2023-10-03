@@ -1,55 +1,23 @@
-# Full Name 
+# Sreelal H
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am a recent graduate with a Master of Science in Data Science from the University of Kerala, having completed my program in the 2021-2023 academic batch. My educational journey has equipped me with a solid foundation in data science principles, methodologies, and techniques. During my time at the university, I had the privilege of delving into various aspects of data science, including machine learning, statistical analysis, data preprocessing, and data visualization.
+
+Throughout my academic pursuits, I not only gained theoretical knowledge but also had the opportunity to apply it in practical, real-world scenarios. Working on diverse projects and coursework, I honed my skills in data analysis and interpretation, enabling me to handle complex datasets with confidence.
+
+Currently, I am gaining valuable industry experience as a Trainee Data Scientist at Techvantage Analytics. In this role, I have the opportunity to apply the theoretical knowledge and skills I acquired during my academic journey to real-world data science projects and challenges.
+
+Working at Techvantage Analytics has exposed me to a dynamic and fast-paced environment where I am constantly learning and adapting to new technologies and tools in the field of data science. Collaborating with experienced professionals in the industry has been instrumental in my growth as a data scientist.
+
+As a Trainee Data Scientist, I am involved in various aspects of the data science lifecycle, including data collection, cleaning, analysis, model development, and data visualization. This hands-on experience has allowed me to expand my practical skills and gain a deeper understanding of how data science contributes to business solutions and decision-making.
+
+I am enthusiastic about contributing my expertise to Techvantage Analytics and am eager to continue my journey in the field of data science, furthering my career and making a meaningful impact through data-driven insights and solutions.
 
 
-### Portfolio Highlights
-
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-#### Leadership and Influence:
-
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
-#### Networking:
-
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
-
-#### As a Top 100 Member:
-
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
-
-#### Career Plan:
-
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Kerala's exceptional strategy sets it apart by employing an exclusive framework of cooperation, uniting educational establishments, industrial sectors, research hubs, and emerging businesses.
+- This network of interconnection stands as a unique asset with the capability to spur creativity and encourage the growth of technology-based entrepreneurial endeavors.
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
----
